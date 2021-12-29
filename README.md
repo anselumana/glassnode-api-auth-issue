@@ -17,4 +17,5 @@ Follow these steps:
 * Install the dependencies via `pip install -r requirements.txt`
 * Create a `.env` file with the following key-value pair: `api_key=<YOUR_API_KEY>`
 * Run the script with `py main.py`
+
 This will try to fetch data from all T3 endpoints and save it to `./data/data.json`.
