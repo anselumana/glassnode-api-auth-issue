@@ -1,6 +1,6 @@
 import time
-from lib.utils import get_api_key, get_endpoints, save_data
-from lib.client import GlassnodeClient
+from library.utils import get_api_key, get_endpoints, save_data
+from library.client import GlassnodeClient
 
 if __name__ == "__main__":
     sleep_between_requests = 2.1
